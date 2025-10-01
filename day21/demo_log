@@ -1,0 +1,6 @@
+2025-10-01 12:15:26,581 - ERROR - ZeroDivisionError
+Traceback (most recent call last):
+  File "/home/developer/Desktop/python_tutorial/day21/logging_practice.py", line 17, in <module>
+    1/0
+ZeroDivisionError: division by zero
+2025-10-01 12:15:26,582 - INFO - Test the custom logger

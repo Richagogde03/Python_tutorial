@@ -1,0 +1,6 @@
+ERROR:root:This is a ERROR message!
+CRITICAL:root:This ia a CRITICAL message!
+2025-09-22 14:20:15,250 - INFO - This is a INFO message!
+2025-09-22 14:20:15,268 - WARNING - This is a WARNING message!
+2025-09-22 14:20:15,268 - ERROR - This is a ERROR message!
+2025-09-22 14:20:15,268 - CRITICAL - This ia a CRITICAL message!
